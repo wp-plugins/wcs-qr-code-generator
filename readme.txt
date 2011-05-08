@@ -97,7 +97,7 @@ You can now implement this QR Code image generation functionality as a plug-in.
 
 == Donations ==
 
-Did you find this plug-in useful? A small [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&currency_code=USD&business=LukeAmerica2020%40gmail.com&item_name=WP%20Code%20Snippets%20donation&amount=0.00&image_url=http://wpcodesnippets.info/files/paypal_header.png "Support Future Development") will much appreciated AND it supports our continued WordPress development efforts. Enter any amount.
+Did you find this plug-in useful? A small [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&currency_code=USD&business=LukeAmerica2020%40gmail.com&item_name=WP%20Code%20Snippets%20donation&amount=0.00&image_url=http://wpcodesnippets.info/files/paypal_header.png "Support Future Development") will be much appreciated AND it supports our continued WordPress development efforts. Enter any amount.
 
 
 == Frequently Asked Questions ==
