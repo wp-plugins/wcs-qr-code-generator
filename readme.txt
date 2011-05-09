@@ -119,10 +119,11 @@ Leave [questions, comments, and suggestions](http://wpcodesnippets.info/blog/wcs
 Currently, only English is available. Future updates may include additional languages (for the Dashboard information page).
 
 = Can I help? =
-Sure! We're in regular need of testers. We have several plug-in prototypes under development at our website. In addition, I could always use help with translations for internationalization.
+Sure! We're in regular need of testers. We have several plug-in prototypes under development at our website. In addition, we could always use help with translations for internationalization.
 
 Visit our website: [wpCodeSnippets.INFO](http://wpcodesnippets.INFO "Visit Our Website").
 
 == Screenshots ==
 
 1. This is a screen shot of a portion of the Dashboard information page added by this plug-in.
+
